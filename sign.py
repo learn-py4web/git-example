@@ -1,3 +1,6 @@
+# This is an example of how to sign strings in Python.
+# Copyright Luca de Alfaro, 2022.
+
 import hashlib
 
 from secrets import signing_key
